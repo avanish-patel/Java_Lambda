@@ -3,7 +3,7 @@
 *  @Author Avanish Patel
 */
 
-package funcitonalInterfaces;
+package functionalInterfaces;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -38,9 +38,6 @@ public class FuncitonalInterfaceDemo2 {
 		// print first name of person which is starts with a
 		
 		performConditionaly(people, p -> p.getFirstName().startsWith("A"), p -> System.out.println(p.getFirstName()));
-		
-		
-		
 		
 	}
 	

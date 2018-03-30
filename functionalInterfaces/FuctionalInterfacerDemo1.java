@@ -3,7 +3,7 @@
 *  @Author Avanish Patel
 */
 
-package funcitonalInterfaces;
+package functionalInterfaces;
 
 import java.util.Arrays;
 import java.util.Collections;

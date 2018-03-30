@@ -5,7 +5,7 @@
 
 package exercise;
 
-class Person {
+public class Person {
 	
 	private String fname;
 	private String lname;
